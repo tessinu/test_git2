@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="annotation">
 	<item value="en" key="language"/>
-	<item value="1603677862896" key="lastModified"/>
+	<item value="1603682062530" key="lastModified"/>
 	<item value="4" key="version"/>
 	<list key="steps">
 		<item value="langid.0"/>
@@ -341,6 +341,7 @@
 		<list key="rulePaths.7">
 			<item value="${workspace_loc:/test_git2/Resources/Parsing Rules}/test_git2_1.jar"/>
 			<item value="${workspace_loc:/test_git2/Resources/Parsing Rules}/test_git2_2.jar"/>
+			<item value="${workspace_loc:/test_git2/Resources/Parsing Rules}/test_git2_3.jar"/>
 		</list>
 		<list key="extraConfigGroups">
 			<item value=""/>
