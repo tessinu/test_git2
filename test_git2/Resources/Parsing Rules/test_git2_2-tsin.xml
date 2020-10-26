@@ -5,5 +5,22 @@
   <version></version>
   <vendor></vendor>
   <types>
+    <typeDescription>
+      <name>test_git2.test_git_boy</name>
+      <description>Required by rule</description>
+      <supertypeName>uima.tcas.Annotation</supertypeName>
+      <features>
+        <featureDescription>
+          <name>type</name>
+          <description></description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        </features>
+    </typeDescription>
+    <typeDescription>
+      <name>uima.tt.TokenAnnotation</name>
+      <description>Required by rule</description>
+      <supertypeName>uima.tt.TokenLikeAnnotation</supertypeName>
+    </typeDescription>
     </types>
 </typeSystemDescription>

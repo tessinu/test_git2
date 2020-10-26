@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <typePriorities xmlns="http://uima.apache.org/resourceSpecifier">
   <priorityLists>
+    <priorityList>
+      <type>uima.tcas.DocumentAnnotation</type>
+      <type>uima.tt.ParagraphAnnotation</type>
+      <type>uima.tt.SentenceAnnotation</type>
+      <type>test_git2.test_git_boy</type>
+      <type>com.ibm.lw.marker.Markertest_git2_1OutputType</type>
+      <type>uima.tt.DictionaryEntryAnnotation</type>
+      <type>uima.tt.TokenAnnotation</type>
+    </priorityList>
+    <priorityList>
+      <type>uima.tcas.DocumentAnnotation</type>
+      <type>uima.tt.ParagraphAnnotation</type>
+      <type>uima.tt.SentenceAnnotation</type>
+      <type>test_git2.test_git_boy</type>
+      <type>uima.tt.DictionaryEntryAnnotation</type>
+      <type>uima.tt.TokenAnnotation</type>
+    </priorityList>
+    <priorityList>
+      <type>uima.tcas.DocumentAnnotation</type>
+      <type>uima.tt.ParagraphAnnotation</type>
+      <type>uima.tt.SentenceAnnotation</type>
+      <type>com.ibm.lw.marker.Markertest_git2_1OutputType</type>
+      <type>uima.tt.DictionaryEntryAnnotation</type>
+      <type>uima.tt.TokenAnnotation</type>
+    </priorityList>
     
   </priorityLists>
 </typePriorities>

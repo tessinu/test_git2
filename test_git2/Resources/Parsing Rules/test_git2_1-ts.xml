@@ -10,5 +10,22 @@
       <description>Marker Type, used to separate outputs of a rule DB from it inputs, in the UIMA priority list</description>
       <supertypeName>uima.cas.TOP</supertypeName>
     </typeDescription>
+    <typeDescription>
+      <name>test_git2.test_git_boy</name>
+      <description></description>
+      <supertypeName>uima.tcas.Annotation</supertypeName>
+      <features>
+        <featureDescription>
+          <name>type</name>
+          <description></description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>ruleId</name>
+          <description></description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        </features>
+    </typeDescription>
     </types>
 </typeSystemDescription>
