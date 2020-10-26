@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
+  <name>test_git2_1-ts</name>
+  <description></description>
+  <version></version>
+  <vendor></vendor>
+  <types>
+    </types>
+</typeSystemDescription>
